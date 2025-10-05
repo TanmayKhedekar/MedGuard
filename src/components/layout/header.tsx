@@ -7,7 +7,7 @@ export function Header() {
         <div className="flex h-16 items-center">
           <div className="flex items-center gap-2">
             <Logo className="h-8 w-8 text-primary" />
-            <span className="text-xl font-bold text-foreground">PillPatrol</span>
+            <span className="text-xl font-bold text-foreground">MedGuard</span>
           </div>
         </div>
       </div>

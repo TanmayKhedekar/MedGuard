@@ -75,7 +75,7 @@ export default function Home() {
         </div>
       </main>
       <footer className="text-center p-4 text-muted-foreground text-sm">
-        PillPatrol &copy; {new Date().getFullYear()}. Your trusted partner in medicine verification.
+        MedGuard &copy; {new Date().getFullYear()}. Your trusted partner in medicine verification.
       </footer>
     </div>
   );
