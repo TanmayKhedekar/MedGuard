@@ -1,3 +1,16 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "medicine-packaging",
+      "description": "A box of medicine",
+      "imageUrl": "https://images.unsplash.com/photo-1702475139168-a1e29301ec0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWVkaWNpbmUlMjBib3h8ZW58MHx8fHwxNzU5NTc5MDgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medicine box"
+    },
+    {
+      "id": "pills-image",
+      "description": "A few pills",
+      "imageUrl": "https://images.unsplash.com/photo-1607874963930-2edecc67a25a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwaWxsc3xlbnwwfHx8fDE3NTk1OTkwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pills"
+    }
+  ]
 }
